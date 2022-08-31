@@ -1,6 +1,7 @@
 package com.wlj.bplog;
 
 import java.io.File;
+import java.io.IOException;
 
 public class FileLogger implements Comparable<FileLogger>{
     /**
